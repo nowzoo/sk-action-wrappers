@@ -1,5 +1,5 @@
 {
-	"name": "sk-action-wrappers",
+	"name": "@nowzoo/sk-action-wrappers",
 	"version": "0.0.1",
 	"scripts": {
 		"dev": "vite dev",
